@@ -2,7 +2,9 @@ project = "GRiPO Sandbox"
 copyright = "2026, GRiPO"
 author = "GRiPO"
 
-extensions = []
+extensions = [
+    "sphinx_copybutton",
+]
 
 templates_path = ["_templates"]
 exclude_patterns = []
