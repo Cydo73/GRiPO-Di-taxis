@@ -4,7 +4,7 @@ build:
   tools:
     python: "3.12"
 sphinx:
-  configuration: gripo-docs/source/conf.py
+  configuration: conf.py
 python:
   install:
     - requirements: requirements.txt
